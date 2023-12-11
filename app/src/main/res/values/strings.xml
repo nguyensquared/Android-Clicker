@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="baseCookies">You currently have 0 cookies</string>
+    <string name="x2">+1 CPC</string>
+    <string name="x3">+10 CPC</string>
+    <string name="x4">+100 CPC</string>
+    <string name="reset">Reset</string>
+    <string name="x2Cost">Upgrade Cost: 100 cookies</string>
+    <string name="x3Cost">Upgrade Cost: 1000 cookies</string>
+    <string name="x4Cost">Upgrade Cost: 5000 cookies</string>
+</resources>
